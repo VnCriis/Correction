@@ -1,0 +1,3 @@
+¿Qué son setters y getters?
+Son métodos utilizados en POO que se utulizan en el caso de los getters para obtener el valor de un atributo d euna clase y los setter son utilizados
+para modificar estos valores.
